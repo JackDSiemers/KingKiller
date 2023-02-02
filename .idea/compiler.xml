@@ -9,8 +9,5 @@
         <module name="Zork-Start" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="KingKiller" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
